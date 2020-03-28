@@ -1,0 +1,36 @@
+Materials to study 
+- 
+
+5 stages to passing interview
+- learn fundamentals of the language (javascript)
+- codewars (toy problems) 
+ - 8 kyu (easiest)
+ - work backwards from the answer and deconstruct it
+ - look at the answer after working for 15 minutes
+ - work towards 6 kyu
+- do a udemy interview bootcamp
+- study elements of programming interviews (book)
+- leetcode problems
+ - start with easy, string + arrays
+ - I O E A
+  - input
+  - output
+  - edgecases
+  - assumptions
+ - draw the problem out how it will work
+ - then write the pseudo code
+ - then write the real code
+ - categories
+  - array + string
+  - data structures
+  - algorithms
+  - try to do 50 problems
+
+Data structures:
+- binary trees
+- binary search trees
+- apply BFS/DFS to trees
+- learn to traverse trees
+- arrays, stacks, linked lists
+
+
